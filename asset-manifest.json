@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/poetfolio_deployed/static/css/main.43a9683d.chunk.css",
-    "main.js": "/poetfolio_deployed/static/js/main.210cea8f.chunk.js",
-    "main.js.map": "/poetfolio_deployed/static/js/main.210cea8f.chunk.js.map",
+    "main.js": "/poetfolio_deployed/static/js/main.641191cf.chunk.js",
+    "main.js.map": "/poetfolio_deployed/static/js/main.641191cf.chunk.js.map",
     "runtime-main.js": "/poetfolio_deployed/static/js/runtime-main.1ac326cf.js",
     "runtime-main.js.map": "/poetfolio_deployed/static/js/runtime-main.1ac326cf.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/poetfolio_deployed/static/css/2.20aa2d7b.chunk.css",
@@ -32,6 +32,6 @@
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.b73419b4.chunk.js",
     "static/css/main.43a9683d.chunk.css",
-    "static/js/main.210cea8f.chunk.js"
+    "static/js/main.641191cf.chunk.js"
   ]
 }
