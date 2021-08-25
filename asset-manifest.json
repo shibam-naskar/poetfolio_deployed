@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/poetfolio_deployed/static/css/main.43a9683d.chunk.css",
+    "main.js": "/poetfolio_deployed/static/js/main.210cea8f.chunk.js",
+    "main.js.map": "/poetfolio_deployed/static/js/main.210cea8f.chunk.js.map",
+    "runtime-main.js": "/poetfolio_deployed/static/js/runtime-main.1ac326cf.js",
+    "runtime-main.js.map": "/poetfolio_deployed/static/js/runtime-main.1ac326cf.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/poetfolio_deployed/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.b73419b4.chunk.js": "/poetfolio_deployed/static/js/2.b73419b4.chunk.js",
+    "static/js/2.b73419b4.chunk.js.map": "/poetfolio_deployed/static/js/2.b73419b4.chunk.js.map",
+    "static/js/3.eae24763.chunk.js": "/poetfolio_deployed/static/js/3.eae24763.chunk.js",
+    "static/js/3.eae24763.chunk.js.map": "/poetfolio_deployed/static/js/3.eae24763.chunk.js.map",
+    "index.html": "/poetfolio_deployed/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/poetfolio_deployed/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.43a9683d.chunk.css.map": "/poetfolio_deployed/static/css/main.43a9683d.chunk.css.map",
+    "static/js/2.b73419b4.chunk.js.LICENSE.txt": "/poetfolio_deployed/static/js/2.b73419b4.chunk.js.LICENSE.txt",
+    "static/media/Diwali.38ccd247.png": "/poetfolio_deployed/static/media/Diwali.38ccd247.png",
+    "static/media/RESUME_SHIBAM.ea0990b0.pdf": "/poetfolio_deployed/static/media/RESUME_SHIBAM.ea0990b0.pdf",
+    "static/media/Wall-e.b99e6a5d.jpg": "/poetfolio_deployed/static/media/Wall-e.b99e6a5d.jpg",
+    "static/media/about.aee0f771.png": "/poetfolio_deployed/static/media/about.aee0f771.png",
+    "static/media/avatar.7f806e40.svg": "/poetfolio_deployed/static/media/avatar.7f806e40.svg",
+    "static/media/crewup.8e4c40f7.png": "/poetfolio_deployed/static/media/crewup.8e4c40f7.png",
+    "static/media/emgineer.d1e00b9c.png": "/poetfolio_deployed/static/media/emgineer.d1e00b9c.png",
+    "static/media/style.css": "/poetfolio_deployed/static/media/pre.4410c5ba.svg",
+    "static/media/home-main.fb8fb678.png": "/poetfolio_deployed/static/media/home-main.fb8fb678.png",
+    "static/media/leaf.4c15d6eb.png": "/poetfolio_deployed/static/media/leaf.4c15d6eb.png",
+    "static/media/logo.e5aea2bd.png": "/poetfolio_deployed/static/media/logo.e5aea2bd.png",
+    "static/media/ytfy.e568b5e1.jpg": "/poetfolio_deployed/static/media/ytfy.e568b5e1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ac326cf.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.b73419b4.chunk.js",
+    "static/css/main.43a9683d.chunk.css",
+    "static/js/main.210cea8f.chunk.js"
+  ]
+}
